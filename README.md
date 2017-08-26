@@ -16,5 +16,5 @@ import ReactDOM from 'react-dom';
 import WordLimit from 'react-word-limit';
 ReactDOM.render(<WordLimit limit={10}>here is long text to be printed</WordLimit>, document.getElementById('page'));
 ```
- * [Github](http://github.com/lvtrvd) (@lvtrvd)
+ * [Github](http://github.com/erlovetrivedi) (@erlovetrivedi)
  * [Twitter](http://twitter.com/erlovetrivedi) (@erlovetrivedi)
